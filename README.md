@@ -14,7 +14,7 @@ Everything is built and shipped by one person, Demir, working with terminal AI c
 - **AgentOS** — the automation system that runs the company: task board, watchdogs,
   scheduled jobs, backups. Also installed for businesses as a tailored service.
 - **Voice Chief** — a voice interface for terminal-based AI agents; speak to the agent,
-  hear the answer back. Works with Claude Code today.
+  hear the answer back. Works with Claude Code, ChatGPT, and Codex sessions.
 - **StonkLab** — digital products and tools for traders and hobbyists.
 
 ### How we work
